@@ -2,16 +2,16 @@
  
 <h3>PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL</h3>
 
-**<h2>8.1. OBJETIVO DE LA PRÁCTICA</h2>**
+**<h1>8.1. OBJETIVO DE LA PRÁCTICA</h1>**
 
 Determinar experimentalmente las características de señales senoidales.
 
-**<h2>8.2. REQUISITOS PREVIOS.</h2>**
+**<h1>8.2. REQUISITOS PREVIOS.</h1>**
 
 Investigue la representación de la onda senoidal, tanto en su forma gráfica como 
 en su forma matemática.
 
-**<h2>8.3. INFORMACIÓN GENERAL</h2>**
+**<h1>8.3. INFORMACIÓN GENERAL</h1>**
 
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y 
 dirección varían periódicamente. La forma de onda de la corriente alterna más 
@@ -23,7 +23,7 @@ transmitidas por los cables eléctricos, son también ejemplos de corriente alte
 
 
 
-**<h2>8.4. MATERIAL Y EQUIPO REQUERIDO</h2>**
+**<h1>8.4. MATERIAL Y EQUIPO REQUERIDO</h1>**
 
 
 Cantidad Elemento
@@ -36,7 +36,7 @@ Cantidad Elemento
  
 
 
-**<h2>8.5. PROCEDIMIENTO</h2>**
+**<h1>8.5. PROCEDIMIENTO</h1>**
 
 <b>8.5.1. Implemente el circuito que se presenta en la figura 7.1</b>
 
