@@ -38,22 +38,22 @@ Cantidad Elemento
 
 **8.5. PROCEDIMIENTO**
 
-***8.5.1. Implemente el circuito que se presenta en la figura 7.1***
+***<b>8.5.1. Implemente el circuito que se presenta en la figura 7.1</b>***
 
 [![01.png](https://i.postimg.cc/RCkFcCxs/01.png)](https://postimg.cc/F1xNv4R3)
 
 
 
-***8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.***
+***<b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.***
 
 
 
 
-***8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.***
+***<b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.***
 
 
 
-***8.5.4. Responda las siguientes preguntas:***
+***<b>8.5.4. Responda las siguientes preguntas:***
 
 
 
@@ -74,7 +74,7 @@ Cantidad Elemento
 
 
 
-***8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?***
+***<b>8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?***
 
 
 
@@ -84,7 +84,7 @@ Cantidad Elemento
 ***- Periodo: (s)***
 
 
-***8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.***
+***<b>8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.***
 
 ***- f: (Hz)***
 
@@ -92,7 +92,7 @@ Cantidad Elemento
 ***- ω: (rad/s)***
 
 
-***8.5.7. Con el multímetro digital mida el voltaje de salida en RL:*** 
+***<b>8.5.7. Con el multímetro digital mida el voltaje de salida en RL:*** 
 
 
-***8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?***
+***<b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?***
