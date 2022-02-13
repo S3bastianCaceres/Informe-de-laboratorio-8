@@ -40,7 +40,7 @@ Cantidad Elemento
 
 8.5.1. Implemente el circuito que se presenta en la figura 7.1
 
-[![01.png](https://i.postimg.cc/d3bKr078/01.png)](https://postimg.cc/FkVqQNVR)
+[![01.png](https://i.postimg.cc/RCkFcCxs/01.png)](https://postimg.cc/F1xNv4R3)
 
 
 
