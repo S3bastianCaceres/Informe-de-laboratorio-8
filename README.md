@@ -74,25 +74,28 @@ Cantidad Elemento
 
 
 
-***<b>8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?***
+<b>8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?</b>
 
 
 
-***- Amplitud de voltaje: (V)***
+<i>- Amplitud de voltaje: (V)</i>
 
 
-***- Periodo: (s)***
+
+<i>- Periodo: (s)</i>
 
 
-***<b>8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.***
 
-***- f: (Hz)***
+<b>8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.</b>
 
-
-***- ω: (rad/s)***
+<i>- f: (Hz)</i>
 
 
-***<b>8.5.7. Con el multímetro digital mida el voltaje de salida en RL:*** 
+<i>- ω: (rad/s)</i>
 
 
-***<b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?***
+
+<b>8.5.7. Con el multímetro digital mida el voltaje de salida en RL:</b>
+
+
+<b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?</b>
