@@ -60,19 +60,19 @@ el osciloscopio.
 
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
-___________
 
 
-¿En qué valor está posicionada la perilla VOLTS/DIV? ___________
+
+¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
 
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
-__________
 
 
 
-¿En qué valor está posicionada la perilla TIME/DIV? ___________
+
+¿En qué valor está posicionada la perilla TIME/DIV? 
 
 
 
@@ -81,24 +81,23 @@ del osciloscopio?
 
 
 
-Amplitud de voltaje: ____________(V)
+Amplitud de voltaje: (V)
 
 
-Periodo: ____________(s)
+Periodo: (s)
 
 
 8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de 
 salida.
 
-f: _____________(Hz) 
+f: (Hz) 
 
 
-ω: ____________(rad/s) 
+ω: (rad/s) 
 
 
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
-
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
 
 
 8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7. 
-¿Coinciden? _______ ¿Por qué? ___________________________________________
+¿Coinciden? ¿Por qué?
