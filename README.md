@@ -38,6 +38,7 @@ Cantidad Elemento
 **<H3>8.5. PROCEDIMIENTO</H3>**
 
 <H1>
+
 <b>8.5.1. Implemente el circuito que se presenta en la figura 7.1</b>
 
 [![01.png](https://i.postimg.cc/RCkFcCxs/01.png)](https://postimg.cc/F1xNv4R3)
@@ -99,4 +100,5 @@ Cantidad Elemento
 
 
 <b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?</b>
+
 </H1>
