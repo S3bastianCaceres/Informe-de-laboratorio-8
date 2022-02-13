@@ -40,14 +40,7 @@ Cantidad Elemento
 
 8.5.1. Implemente el circuito que se presenta en la figura 7.1
 
-1kOhm
-
-RL
-
-Vac 2.2kOhm
-
-Figura 7.1. Circuito con alimentación en c.a.
-
+[![01.png](https://i.postimg.cc/d3bKr078/01.png)](https://postimg.cc/FkVqQNVR)
 
 
 
