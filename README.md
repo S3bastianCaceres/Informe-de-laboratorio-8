@@ -44,33 +44,33 @@ Cantidad Elemento
 
 
 
-***<b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.***
+<b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.</b>
 
 
 
 
-***<b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.***
+<b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.</b>
 
 
 
-***<b>8.5.4. Responda las siguientes preguntas:***
+<b>8.5.4. Responda las siguientes preguntas:</b>
 
 
 
-***- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?***
+<i>- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?</i>
 
 
 
-***- ¿En qué valor está posicionada la perilla VOLTS/DIV?***
+<i>- ¿En qué valor está posicionada la perilla VOLTS/DIV?</i>
 
 
 
-***- ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?***
+<i>- ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?</i>
 
 
 
 
-***- ¿En qué valor está posicionada la perilla TIME/DIV?***
+<i>- ¿En qué valor está posicionada la perilla TIME/DIV?</i>
 
 
 
