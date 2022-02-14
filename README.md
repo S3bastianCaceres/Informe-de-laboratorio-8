@@ -6,10 +6,15 @@
 
 **Objetivo General**
 
-Determinar experimentalmente las características de señales senoidales.
+Identificar las partes del osciloscopio y que funcionamiento tienen, para analizar las ondas sinusoidales representadas en el osiciloscopio, y asi respender a las interrogantes sobre este análisis y exponer el el concepto de la onda sinusoidal teoricamente como matemáticamente.
 
 **Objetivos Especificos**
 
+Investigar la representación de onda senoidal y su relación con la corriente alterna.
+
+Comparar el voltaje de salida en RL con la amplitud de voltaje y verificar si coinciden.
+
+Analizar como se representa el valor de ca en funcion del tiempo
 
 <H3>2. MARCO TEÓRICO</H3>
 
