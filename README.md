@@ -136,9 +136,9 @@ Estos no coinciden ya que el osciloscopio mide el voltaje pico por lo que nos mu
 
 **<H3>6. CONCLUSIONES</H3>**
 
-Para poder manipular la onda seno debemos tener en claro que la perilla de SEC/DIV
+Para poder manipular la onda seno debemos tener en claro que la perilla de SEC/DIV es la que cambia el periodo de la onsa seninusoidal en el eje de las abscisas y la perilla de VOLT/DIV es la que cambia la amplitud de la onda sinusoidal en el eje de las ordenadas.
 
-Se puede concluir que la onda senoidal representa el valor de la tensión de la Corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio.
+La onda sinunsoidal representa el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio y el análisis que se hace al observar la onda sinusoidal.
 
 
 **<H3>7. BIBLIOGRAFÍA</H3>**
