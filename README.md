@@ -14,8 +14,6 @@ Investigar la representacion dela onda senoidal graficamente como matemáticamen
 
 Determinar si la medida del voltaje de salida (RL) es igual en el osciloscopio como en el multimetro.
 
-Analizar como se representa el valor de ca en funcion del tiempo
-
 <H3>2. MARCO TEÓRICO</H3>
 
 **<H3>3. EXPLICACIÓN DEL PROCEDIMIENTO</H3>**
