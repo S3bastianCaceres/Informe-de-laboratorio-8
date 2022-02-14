@@ -74,20 +74,20 @@ Ajuste en multisim
 
 <i>- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?</i>
 
-
+La ampplitud abarca 3.5 cuadros por division
 
 <i>- ¿En qué valor está posicionada la perilla VOLTS/DIV?</i>
 
-
+Se encuentra posicionada en 2V
 
 <i>- ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?</i>
 
-
+Un ciclo completo abarca 4 cuadrados por division
 
 
 <i>- ¿En qué valor está posicionada la perilla TIME/DIV?</i>
 
-
+Se encuentra posicionada en 100 micro segundos
 
 <b>8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?</b>
 
