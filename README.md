@@ -53,6 +53,10 @@ Cantidad Elemento
 
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/93739242/153795331-0b03c34d-f25f-4fe5-9136-8583f470a506.png)
 
+Ajuste en multisim
+
+[![Fuente.png](https://i.postimg.cc/wj6kHKx2/Fuente.png)](https://postimg.cc/YhsFfsWL)
+
 
 <b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.</b>
 
