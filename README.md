@@ -10,9 +10,9 @@ Identificar las partes del osciloscopio y que funcionamiento tienen, para analiz
 
 **Objetivos Especificos**
 
-Investigar la representación de onda senoidal y su relación con la corriente alterna.
+Investigar la representacion dela onda senoidal graficamente como matemáticamente
 
-Comparar el voltaje de salida en RL con la amplitud de voltaje y verificar si coinciden.
+Determinar si la medida del voltaje de salida (RL) es igual en el osciloscopio como en el multimetro.
 
 Analizar como se representa el valor de ca en funcion del tiempo
 
