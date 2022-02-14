@@ -97,9 +97,12 @@ Cantidad Elemento
 
 <i>- f: (Hz)</i>
 
+![lagrida_latex_editor (8)](https://user-images.githubusercontent.com/93739242/153796077-909dbfcd-bcbe-4d89-a169-a463c370c12e.png)
+
 
 <i>- ω: (rad/s)</i>
 
+![lagrida_latex_editor (9)](https://user-images.githubusercontent.com/93739242/153796216-b94ccc59-62e8-4e1e-bfbb-417bb2997aa6.png)
 
 
 <b>8.5.7. Con el multímetro digital mida el voltaje de salida en RL:</b>
@@ -116,6 +119,7 @@ Cantidad Elemento
  
 <b>¿Por qué?</b>
 
+Estos no coinciden ya que el osciloscopio mide el voltaje pico por lo que nos muestra este dato, mientras que el voltimetro mide el voltaje eficaz es decir el voltaje rms.
 
 **<H3>5. VIDEO</H3>**
 
