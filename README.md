@@ -48,6 +48,10 @@ Cantidad Elemento
 
 [![01.png](https://i.postimg.cc/RCkFcCxs/01.png)](https://postimg.cc/F1xNv4R3)
 
+Circuito en multisim
+
+[![circuito02.png](https://i.postimg.cc/L5j6x0rg/circuito02.png)](https://postimg.cc/D4yTZ5f7)
+
 
 <b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.</b>
 
