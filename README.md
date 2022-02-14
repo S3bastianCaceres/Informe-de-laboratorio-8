@@ -2,22 +2,25 @@
  
 <H2>PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL</H2>
 
-**<H3>8.1. OBJETIVO DE LA PRÁCTICA</H3>**
+**<H3>1. OBJETIVOS</H3>**
 
-<H4>Determinar experimentalmente las características de señales senoidales.</H4>
+**Objetivo General**
+
+Determinar experimentalmente las características de señales senoidales.
+
+**Objetivos Especificos**
+
+
+<H3>2. MARCO TEÓRICO</H3>
+
+**<H3>3. EXPLICACIÓN DEL PROCEDIMIENTO</H3>**
 
 **<H3>8.2. REQUISITOS PREVIOS.</H3>**
-
-<H4>
 
 Investigue la representación de la onda senoidal, tanto en su forma gráfica como 
 en su forma matemática.
 
-</h4>
-
 **<H3>8.3. INFORMACIÓN GENERAL</H3>**
-
-<H4>
 
 Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y 
 dirección varían periódicamente. La forma de onda de la corriente alterna más 
@@ -27,31 +30,23 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 llega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio 
 transmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
 
-</H4>
-
-
 **<H3>8.4. MATERIAL Y EQUIPO REQUERIDO</H3>**
-<H4>
 
 Cantidad Elemento
-1 Generador de Funciones
-1 Osciloscopio
-1 Multímetro Digital 
-1 Resistor de 1 kΩ
-1 Resistor de 2.2 kΩ
-1 Protoboard 
-
- </H4>
+- 1 Generador de Funciones
+- 1 Osciloscopio
+- 1 Multímetro Digital 
+- 1 Resistor de 1 kΩ
+- 1 Resistor de 2.2 kΩ
+- 1 Protoboard 
 
 
 **<H3>8.5. PROCEDIMIENTO</H3>**
 
-<H4>
 
 <b>8.5.1. Implemente el circuito que se presenta en la figura 7.1</b>
 
 [![01.png](https://i.postimg.cc/RCkFcCxs/01.png)](https://postimg.cc/F1xNv4R3)
-
 
 
 <b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.</b>
@@ -63,8 +58,10 @@ Cantidad Elemento
 
 
 
-<b>8.5.4. Responda las siguientes preguntas:</b>
+**<H3>4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR</H3>**
 
+
+<b>8.5.4. Responda las siguientes preguntas:</b>
 
 
 <i>- ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?</i>
@@ -110,4 +107,9 @@ Cantidad Elemento
 
 <b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?</b>
 
-</H4>
+
+**<H3>5. VIDEO</H3>**
+
+**<H3>6. CONCLUSIONES</H3>**
+
+**<H3>7. BIBLIOGRAFÍA</H3>**
