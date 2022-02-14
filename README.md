@@ -87,10 +87,12 @@ Cantidad Elemento
 
 <i>- Amplitud de voltaje: (V)</i>
 
+![image](https://user-images.githubusercontent.com/93739242/153794511-84355cd8-f73a-44bc-b721-9656abefe1d6.png)
 
 
 <i>- Periodo: (s)</i>
 
+![image](https://user-images.githubusercontent.com/93739242/153794445-5d358ecc-b7a8-45bd-ba7e-8be0cdc13f3b.png)
 
 
 <b>8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.</b>
@@ -105,7 +107,16 @@ Cantidad Elemento
 <b>8.5.7. Con el multímetro digital mida el voltaje de salida en RL:</b>
 
 
-<b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.¿Coinciden?¿Por qué?</b>
+![image](https://user-images.githubusercontent.com/93739242/153794086-3ab008d8-fffb-4999-a963-f9c046785889.png)
+
+
+<b>8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+ 
+ ¿Coinciden?
+ 
+ No coinciden.
+ 
+ ¿Por qué?</b>
 
 
 **<H3>5. VIDEO</H3>**
