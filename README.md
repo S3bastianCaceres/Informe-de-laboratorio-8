@@ -51,7 +51,7 @@ Cantidad Elemento
 
 <b>8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.</b>
 
-
+![lagrida_latex_editor](https://user-images.githubusercontent.com/93739242/153795331-0b03c34d-f25f-4fe5-9136-8583f470a506.png)
 
 
 <b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.</b>
