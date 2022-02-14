@@ -56,7 +56,7 @@ Cantidad Elemento
 
 <b>8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.</b>
 
-
+[![CIRCUITO.png](https://i.postimg.cc/4yDV9VsX/CIRCUITO.png)](https://postimg.cc/kRy2rV2H)
 
 **<H3>4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR</H3>**
 
