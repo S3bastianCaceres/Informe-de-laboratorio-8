@@ -84,16 +84,14 @@ Cantidad Elemento
 <b>8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?</b>
 
 
+![image](https://user-images.githubusercontent.com/93739242/153794511-84355cd8-f73a-44bc-b721-9656abefe1d6.png)
 
 <i>- Amplitud de voltaje: 6.83(V)</i>
 
-![image](https://user-images.githubusercontent.com/93739242/153794511-84355cd8-f73a-44bc-b721-9656abefe1d6.png)
-
-
-<i>- Periodo: 400(μs)=>0.0004(s)</i>
 
 ![image](https://user-images.githubusercontent.com/93739242/153794445-5d358ecc-b7a8-45bd-ba7e-8be0cdc13f3b.png)
 
+<i>- Periodo: 400(μs)=>0.0004(s)</i>
 
 <b>8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.</b>
 
