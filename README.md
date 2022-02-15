@@ -10,11 +10,16 @@ Identificar las partes del osciloscopio y que funcionamiento tienen, para analiz
 
 **Objetivos Especificos**
 
-Investigar la representacion dela onda senoidal graficamente como matemáticamente
+- Investigar la representacion dela onda senoidal graficamente como matemáticamente
 
-Determinar si la medida del voltaje de salida (RL) es igual en el osciloscopio como en el multimetro.
+- Determinar si la medida del voltaje de salida (RL) es igual en el osciloscopio como en el multimetro.
 
 <H3>2. MARCO TEÓRICO</H3>
+
+![Onda Senoidal](https://user-images.githubusercontent.com/93739242/153995467-23a43742-816c-46d6-9026-1cd043059f44.png)
+
+![image](https://user-images.githubusercontent.com/93739242/153995706-8975e8ac-ec00-4e14-8fe1-acd61f6387ca.png)
+
 
 **<H3>3. EXPLICACIÓN DEL PROCEDIMIENTO</H3>**
 
@@ -136,9 +141,12 @@ Estos no coinciden ya que el osciloscopio mide el voltaje pico por lo que nos mu
 
 **<H3>6. CONCLUSIONES</H3>**
 
-Para poder manipular la onda seno debemos tener en claro que la perilla de SEC/DIV es la que cambia el periodo de la onsa seninusoidal en el eje de las abscisas y la perilla de VOLT/DIV es la que cambia la amplitud de la onda sinusoidal en el eje de las ordenadas.
+- Para poder manipular la onda seno debemos tener en claro que la perilla de SEC/DIV es la que cambia el periodo de la onsa seninusoidal en el eje de las abscisas y la perilla de VOLT/DIV es la que cambia la amplitud de la onda sinusoidal en el eje de las ordenadas.
 
-La onda sinunsoidal representa el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio y el análisis que se hace al observar la onda sinusoidal.
+- La onda sinunsoidal representa el valor de la tensión de la corriente alterna a través de un tiempo continuamente variable y este puede variar dependiendo de como se posiciones las perrillas del osciloscopio y el análisis que se hace al observar la onda sinusoidal.
 
 
 **<H3>7. BIBLIOGRAFÍA</H3>**
+
+- Zapata, F. (2019, 22 agosto). Onda senoidal: características, partes, cálculo, ejemplos. Lifeder. https://www.lifeder.com/onda-senoidal/
+- EcuRed. (s. f.). Onda senoidal - EcuRed. https://www.ecured.cu/Onda_senoidal
